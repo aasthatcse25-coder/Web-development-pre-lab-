@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Tribute to Lata Mangeshkar </title>
+    <style>
+        body { margin:0; font-family: Arial; background-color: lightblue; }
+        nav { background-color: navy; padding:10px; }
+        nav a { color:white; margin:10px; text-decoration:none; }
+        header { background-color: lightblue; text-align:center; padding:20px; }
+        .section { background:white; margin:20px; padding:15px; border:2px solid navy; }
+        .section h2 { color: navy; }
+        img { width:200px; border:2px solid navy; margin:10px; }
+        footer { background-color: navy; color:white; text-align:center; padding:10px; }
+    </style>
+</head>
+<body>
+
+<div>
+    <nav>
+        <a href="#life">Life</a>
+        <a href="#works">Works</a>
+        <a href="#legacy">Legacy</a>
+    </nav>
+</div>
+
+<div>
+    <header>
+        <h1>Lata Mangeshkar</h1>
+        <p>The Nightingale of India</p>
+    </header>
+</div>
+
+<div class="section" id="life">
+    <h2>Life</h2>
+    <img src="C:\Users\CCLab\Pictures\lata_mangeshkar.jpg">
+    <p>Lata Mangeshkar was an iconic Indian playback singer whose career spanned seven decades, earning her the title of "Queen of Melody" for her unparalleled contribution to Indian music.</p>
+</div>
+
+<div class="section" id="works">
+    <h2>Works</h2>
+    <p>Musical Mastery - She recorded thousands of songs in over thirty-six Indian languages and few foreign languages, becoming the voice of generations.</p>
+    <p>Patriotic Influence - Her rendition of "Aye Mere Watan Ke Logo" famously moved Prime Minister Jawaharlal Nehru to tears and became a symbol of national pride.</p>
+    <p>Global Recognition - She was the first Indian to perform at the Royal Albert Hall in London and received the Bharat Ratna, India's highest civilian honor.</p>
+</div>
+
+<div class="section" id="legacy">
+    <h2>Legacy</h2>
+    <p>Lata Mangeshkar's legacy lives on through her timeless voice, which remains the gold standard for playback singing and an inspiration to aspiring musicians worldwide.</p>
+</div>
+
+<div>
+    <footer>
+        <p>Tribute Page © 2026</p>
+    </footer>
+</div>
+
+</body>
+</html>
